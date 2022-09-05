@@ -1,8 +1,5 @@
 ### Hi there 👋
 <div>
-🔭 I’m currently working on :
-<br><br>
-LGE (https://www.lge.co.kr/)
 <hr>
 </div>
 <div align=center><h1>📚 STACKS</h1></div>
@@ -44,7 +41,13 @@ LGE (https://www.lge.co.kr/)
 <img src="https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=Chai&logoColor=white">
 <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white">
 </div>
-
+<hr>
+<div align=center> 
+<img src=https://github-readme-stats.vercel.app/api?username=Phigaro>
+<img src=https://github-readme-codewars-stats.herokuapp.com/api/?username=Phigaro&card&colormode=dark_mode>
+</div>
+<br>
+🔭 I’m currently working on : LG Electronics (https://www.lge.co.kr/)
 <!--
 **Phigaro/Phigaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
